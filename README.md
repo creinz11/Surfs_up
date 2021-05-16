@@ -6,10 +6,10 @@ The purpose of this analysis was to dive in to our weather observations for spec
 
 ## Results
 
- There are three key differences in the data outlined below:
+ There are three key differences in the data outlined below: 
 
-  1)The temperature data between June and December in Hawaii was of comparable size, with 1700 observations in June and 1517 in December. Having data sets of equal  sizes should help us get a good representative comparison between tempartures of the two months. 
-
+  1) The temperature data between June and December in Hawaii was of comparable size, with 1700 observations in June and 1517 in December. Having data sets of equal  sizes should help us get a good representative comparison between tempartures of the two months. 
+  
   2) There is only about a 4 degrees farenheit difference between June (74.9) and Decembers (71.0) average temperature. While this mean's can be skewed, this data suggests Hawaii's temperature is rather stable throughout the year.
   
   3) The standard deviations of both June (3.25 degrees) and December (3.75 degrees) are relatively comparable. This suggestes that there is a healther dispersion in the data, and continues to support our initial hypothesis that the temperature is relatively stable year round. In addition to a consistent standard deviation, the quartile data is relatviely comparable at both times of year
